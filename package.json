@@ -1,14 +1,14 @@
 {
-  "name": "src",
+  "name": "art",
   "version": "1.0.0",
+  "description": "My HTML site with my paintings",
   "main": "index.js",
   "scripts": {
-  "deploy": "gh-pages -d src"
-},
+    "deploy": "gh-pages -d src"
+  },
   "keywords": [],
-  "author": "",
+  "author": "Dmytro Lazarenko",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "serve": "^14.2.5"
